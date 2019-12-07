@@ -1,2 +1,2 @@
 # amortize14
-GHB amortize14
+amortize14
